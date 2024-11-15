@@ -1,0 +1,3 @@
+module mfai
+
+go 1.23.2
