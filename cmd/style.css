@@ -1,0 +1,43 @@
+body {
+    margin: 40px auto;
+    max-width: 700px;
+    line-height: 1.4;
+    font-size: 18px;
+    color: #444;
+    padding: 0 20px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    line-height: 1.2;
+}
+
+table,th,td {
+    border: 1px solid #444;
+    border-collapse: collapse;
+    padding: 0 10px;
+}
+
+pre {
+    font-size: 14px;
+    /* border: 1px solid #444; */
+    padding: 10px;
+    background-color: #EEE;
+}
+
+pre code {
+    margin: 0;
+    padding: 0;
+}
+
+blockquote {
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+    background-color: #CCC;
+}
+
+blockquote p {
+    margin: 0;
+    padding: 10px;
+    background-color: #EEE;
+}
